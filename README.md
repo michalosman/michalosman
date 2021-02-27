@@ -1,5 +1,5 @@
 <br />
-    <div style="text-align: center">
+    <div align: "center">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"
         width="70px"
