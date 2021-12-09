@@ -1,7 +1,5 @@
 <img src="./banner.png" />
 
-# 👋 Welcome to my profile!
-
 I'm a Full-Stack developer who loves to work with
 JavaScript technologies. Right now my mind is focused on learning everything
 that is related to Web Development. I love to explore new technologies and
