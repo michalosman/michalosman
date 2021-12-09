@@ -13,7 +13,7 @@ student.
 
 <table>
   <tr>
-    <td align="center" height="110" width="110">
+    <td align="center" minHeight="110" minWidth="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
