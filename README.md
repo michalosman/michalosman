@@ -13,7 +13,7 @@ student.
 
 <table>
   <tr>
-    <td align="center" minHeight="110" minWidth="110">
+    <td align="center" height="110" width="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
@@ -67,33 +67,6 @@ student.
       />
       <br />Redux&nbsp;
     </td>
-    <td align="center" height="110" width="110">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-        width="48"
-        height="48"
-        alt="MUI"
-      />
-      <br />MUI&nbsp;
-    </td>
-    <td align="center" height="110" width="110">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-        width="48"
-        height="48"
-        alt="Bootstrap"
-      />
-      <br />Bootstrap&nbsp;
-    </td>
-    <td align="center" height="110" width="110">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-        width="48"
-        height="48"
-        alt="Figma"
-      />
-      <br />Figma&nbsp;
-    </td>
   </tr>
   <tr>
     <td align="center" height="110" width="110">
@@ -143,6 +116,44 @@ student.
     </td>
     <td align="center" height="110" width="110">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        width="48"
+        height="48"
+        alt="Python"
+      />
+      <br />Python&nbsp;
+    </td>
+  </tr>
+  <tr>
+  <td align="center" height="110" width="110">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        width="48"
+        height="48"
+        alt="MUI"
+      />
+      <br />MUI&nbsp;
+    </td>
+    <td align="center" height="110" width="110">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        width="48"
+        height="48"
+        alt="Bootstrap"
+      />
+      <br />Bootstrap&nbsp;
+    </td>
+    <td align="center" height="110" width="110">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+        width="48"
+        height="48"
+        alt="Figma"
+      />
+      <br />Figma&nbsp;
+    </td>
+    <td align="center" height="110" width="110">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
         width="48"
         height="48"
@@ -167,15 +178,6 @@ student.
         alt="Jest"
       />
       <br />Jest&nbsp;
-    </td>
-    <td align="center" height="110" width="110">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
-        width="48"
-        height="48"
-        alt="Webpack"
-      />
-      <br />Webpack&nbsp;
     </td>
   </tr>
 </table>
