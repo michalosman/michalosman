@@ -163,10 +163,10 @@ leverage them to solve real-life problems.
 
 # 📈 Stats
 
-<img width="600"
+<img
   src="https://github-readme-stats.vercel.app/api?username=michalosman&show_icons=true&theme=react&&hide_border=true"
 />
 <br />
-<img width="600"
+<img
   src="https://github-readme-streak-stats.herokuapp.com/?user=michalosman&&theme=react&&hide_border=true"
 />
