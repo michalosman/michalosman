@@ -13,7 +13,7 @@ student.
 
 <table>
   <tr>
-    <td align="center" height="120" width="120">
+    <td align="center" height="110" width="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
@@ -22,7 +22,7 @@ student.
       />
       <br />HTML5&nbsp;
     </td>
-    <td align="center" height="120" width="120">
+    <td align="center" height="110" width="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
         width="48"
@@ -31,7 +31,7 @@ student.
       />
       <br />CSS3&nbsp;
     </td>
-    <td align="center" height="120" width="120">
+    <td align="center" height="110" width="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
@@ -40,7 +40,7 @@ student.
       />
       <br />JavaScript&nbsp;
     </td>
-    <td align="center" height="120" width="120">
+    <td align="center" height="110" width="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
         width="48"
@@ -49,7 +49,7 @@ student.
       />
       <br />TypeScript&nbsp;
     </td>
-    <td align="center" height="120" width="120">
+    <td align="center" height="110" width="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
@@ -58,7 +58,7 @@ student.
       />
       <br />React&nbsp;
     </td>
-    <td align="center" height="120" width="120">
+    <td align="center" height="110" width="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
         width="48"
@@ -67,7 +67,7 @@ student.
       />
       <br />Redux&nbsp;
     </td>
-    <td align="center" height="120" width="120">
+    <td align="center" height="110" width="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
         width="48"
@@ -76,7 +76,7 @@ student.
       />
       <br />MUI&nbsp;
     </td>
-    <td align="center" height="120" width="120">
+    <td align="center" height="110" width="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
         width="48"
@@ -85,7 +85,7 @@ student.
       />
       <br />Bootstrap&nbsp;
     </td>
-    <td align="center" height="120" width="120">
+    <td align="center" height="110" width="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
         width="48"
@@ -96,7 +96,7 @@ student.
     </td>
   </tr>
   <tr>
-    <td align="center" height="120" width="120">
+    <td align="center" height="110" width="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
@@ -105,7 +105,7 @@ student.
       />
       <br />Node.js&nbsp;
     </td>
-    <td align="center" height="120" width="120">
+    <td align="center" height="110" width="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
         width="48"
@@ -114,7 +114,7 @@ student.
       />
       <br />Express&nbsp;
     </td>
-    <td align="center" height="120" width="120">
+    <td align="center" height="110" width="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
         width="48"
@@ -123,7 +123,7 @@ student.
       />
       <br />MongoDB&nbsp;
     </td>
-    <td align="center" height="120" width="120">
+    <td align="center" height="110" width="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
         width="48"
@@ -132,7 +132,7 @@ student.
       />
       <br />PostgreSQL&nbsp;
     </td>
-    <td align="center" height="120" width="120">
+    <td align="center" height="110" width="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
         width="48"
@@ -141,7 +141,7 @@ student.
       />
       <br />Firebase&nbsp;
     </td>
-    <td align="center" height="120" width="120">
+    <td align="center" height="110" width="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
         width="48"
@@ -150,7 +150,7 @@ student.
       />
       <br />Npm&nbsp;
     </td>
-    <td align="center" height="120" width="120">
+    <td align="center" height="110" width="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
@@ -159,7 +159,7 @@ student.
       />
       <br />Git&nbsp;
     </td>
-    <td align="center" height="120" width="120">
+    <td align="center" height="110" width="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
         width="48"
@@ -168,7 +168,7 @@ student.
       />
       <br />Jest&nbsp;
     </td>
-    <td align="center" height="120" width="120">
+    <td align="center" height="110" width="110">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"
         width="48"
