@@ -2,10 +2,14 @@
 
 # 👋 Nice to meet you!
 
-My name is Michael and I'm a Full-Stack developer who
-loves to work with JavaScript technologies. Right now my mind is focused on
-learning everything that is related to Web Development. I love to explore new
-technologies and leverage them to solve real-life problems.
+<div align="justify">
+  <strong>
+    My name is Michael and I'm a Full-Stack developer who
+    loves to work with JavaScript technologies. Right now my mind is focused on
+    learning everything that is related to Web Development. I love to explore new
+    technologies and leverage them to solve real-life problems.
+  </strong>
+</div>
 
 # 🔧 Technologies & Tools
 
