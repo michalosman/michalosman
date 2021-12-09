@@ -67,6 +67,15 @@ student.
       />
       <br />Redux&nbsp;
     </td>
+    <td align="center" height="110" width="110">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+        width="48"
+        height="48"
+        alt="Next.js"
+      />
+      <br />Next.js&nbsp;
+    </td>
   </tr>
   <tr>
     <td align="center" height="110" width="110">
@@ -123,6 +132,15 @@ student.
       />
       <br />Python&nbsp;
     </td>
+    <td align="center" height="110" width="110">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+        width="48"
+        height="48"
+        alt="Java"
+      />
+      <br />Java&nbsp;
+    </td>
   </tr>
   <tr>
   <td align="center" height="110" width="110">
@@ -130,9 +148,9 @@ student.
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
         width="48"
         height="48"
-        alt="MUI"
+        alt="Material UI"
       />
-      <br />MUI&nbsp;
+      <br />Material UI&nbsp;
     </td>
     <td align="center" height="110" width="110">
       <img
@@ -154,15 +172,6 @@ student.
     </td>
     <td align="center" height="110" width="110">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-        width="48"
-        height="48"
-        alt="Npm"
-      />
-      <br />Npm&nbsp;
-    </td>
-    <td align="center" height="110" width="110">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
         height="48"
@@ -172,12 +181,30 @@ student.
     </td>
     <td align="center" height="110" width="110">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        width="48"
+        height="48"
+        alt="Npm"
+      />
+      <br />Npm&nbsp;
+    </td>
+    <td align="center" height="110" width="110">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
         width="48"
         height="48"
         alt="Jest"
       />
       <br />Jest&nbsp;
+    </td>
+    <td align="center" height="110" width="110">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg"
+        width="48"
+        height="48"
+        alt="Webpack"
+      />
+      <br />Webpack&nbsp;
     </td>
   </tr>
 </table>
