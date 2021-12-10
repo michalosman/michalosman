@@ -1,6 +1,6 @@
 <img src="./banner.png" />
 
-# 👋 Nice to meet you!
+# 👋 Hey there
 
 <div align="justify">
   <strong>
