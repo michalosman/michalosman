@@ -4,6 +4,9 @@
     My name is Michał and I'm a Full Stack Developer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 </div>
 
+<br/><a href="https://www.linkedin.com/in/michalosman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="mailto:michal.osman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+
 # 🔧 Technologies & Tools
 
 <table>
@@ -46,6 +49,15 @@
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+        width="48"
+        height="48"
+        alt="VueJS"
+      />
+      <br /><strong>Vue</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
         height="48"
@@ -64,21 +76,12 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
         width="48"
         height="48"
-        alt="Material UI"
+        alt="NextJS"
       />
-      <br /><strong>Material UI</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-        width="48"
-        height="48"
-        alt="Bootstrap"
-      />
-      <br /><strong>Bootstrap</strong>
+      <br /><strong>NextJS</strong>
     </td>
   </tr>
   <tr>
@@ -129,21 +132,50 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
         width="48"
         height="48"
-        alt="Git"
+        alt="Java"
       />
-      <br /><strong>Git</strong>
+      <br /><strong>Java</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         width="48"
         height="48"
-        alt="Npm"
+        alt="Python"
       />
-      <br /><strong>Npm</strong>
+      <br /><strong>Python</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+        width="48"
+        height="48"
+        alt="C++"
+      />
+      <br /><strong>C++</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+        width="48"
+        height="48"
+        alt="Docker"
+      />
+      <br /><strong>Docker</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+        width="48"
+        height="48"
+        alt="AWS"
+      />
+      <br /><strong>AWS</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -154,8 +186,55 @@
       />
       <br /><strong>Jest</strong>
     </td>
-  </tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"
+        width="48"
+        height="48"
+        alt="GraphQL"
+      />
+      <br /><strong>GraphQL</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+        width="48"
+        height="48"
+        alt="Sass"
+      />
+      <br /><strong>Sass</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+        width="48"
+        height="48"
+        alt="TailwindCSS"
+      />
+      <br /><strong>TailwindCSS</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        width="48"
+        height="48"
+        alt="Bootstrap"
+      />
+      <br /><strong>Bootstrap</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+        width="48"
+        height="48"
+        alt="Material UI"
+      />
+      <br /><strong>Material UI</strong>
+    </td>
+  <tr/>
 </table>
+
+
 
 # 📈 Stats
 
@@ -165,3 +244,5 @@
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=michalosman&&theme=react&&hide_border=true"
 />
+<br/>
+![](https://komarev.com/ghpvc/?username=michalosman)
