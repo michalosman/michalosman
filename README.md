@@ -1,13 +1,12 @@
 # 👋 Hey there
 
 <div align="justify">
-    My name is Michał and I'm a Full Stack Engineer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+My name is Michał and I'm a passionate Full Stack Engineer with a deep love for JavaScript technologies. My world revolves around the ever-evolving realm of Web Development where I continuously expand my knowledge and skills to craft exceptional digital experiences.
+Beyond mastering the core technologies, I thrive on exploring cutting-edge innovations, always on the lookout for new tools and techniques to tackle real-world challenges creatively and efficiently. My commitment to staying at the forefront of technology is the driving force behind my journey as a developer.
 </div>
-
-<br/><a href="https://www.linkedin.com/in/michalosman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<br/>
 <a href="mailto:michal.osman@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-
-![](https://komarev.com/ghpvc/?username=michalosman)
+<a href="https://www.linkedin.com/in/michalosman"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 # 🔧 Technologies & Tools
 
@@ -92,9 +91,9 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
         width="48"
         height="48"
-        alt="Node.js"
+        alt="Node"
       />
-      <br /><strong>Node.js</strong>
+      <br /><strong>Node</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -161,4 +160,22 @@
     </td>
   </tr>
 </table>
+
+# 📈 Stats 
+
+![](https://komarev.com/ghpvc/?username=michalosman)
+
+<img
+  src="https://github-readme-stats-michalosman.vercel.app/api?username=michalosman&theme=vue-dark&show_icons=true&hide_border=true&show=reviews&hide=contribs&hide_rank=true&include_all_commits=true&count_private=true&custom_title=michalosman"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=michalosman&theme=vue-dark&hide_border=true"
+/>
+<br/>
+<img
+  src="https://github-readme-stats-michalosman-tooploox.vercel.app/api?username=michalosman-tooploox&theme=vue-dark&show_icons=true&hide_border=true&show=reviews&hide=contribs&hide_rank=true&include_all_commits=true&count_private=true&custom_title=michalosman-tooploox"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=michalosman-tooploox&theme=vue-dark&hide_border=true"
+/>
 
