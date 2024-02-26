@@ -166,9 +166,8 @@ Beyond mastering the core technologies, I thrive on exploring cutting-edge innov
 ![](https://komarev.com/ghpvc/?username=michalosman)
 
 <img
-  src="https://github-readme-stats-michalosman.vercel.app/api?username=michalosman&theme=vue-dark&show_icons=true&hide_border=true&show=reviews&hide=contribs&hide_rank=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats-michalosman.vercel.app/api?username=michalosman&theme=vue-dark&show_icons=true&hide_border=true&show=reviews&hide=contribs&hide_rank=true&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats"
 />
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=michalosman&theme=vue-dark&hide_border=true"
 />
-
